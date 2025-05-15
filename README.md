@@ -46,11 +46,9 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 
 - Build predictive models (e.g., logistic regression, random forest) to predict survival outcomes.
 - Perform multivariate analysis on factors affecting treatment costs.
-- Introduce interactivity using `plotly` or `shiny` dashboards.
 - Perform time series forecasting of cancer trends post-2024.
 
 ---
 
-## 📂 Repository Structure
 
 
