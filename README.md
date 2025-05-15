@@ -38,7 +38,7 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 - Lung and breast cancers appeared among the most prevalent globally.  
 - Higher cancer stages were associated with shorter survival durations.  
 - Certain cancer types exhibited significantly higher treatment costs.  
-- Obesity levels in patients displayed a right-skewed distribution pattern, warranting further analysis.
+- Male gender appeared to be the one most affected globally.
 
 ---
 
