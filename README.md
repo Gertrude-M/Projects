@@ -35,8 +35,9 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 
 ### 📌 Sample Insight
 
-- Colon and prostate cancers appeared among the most prevalent globally.    
-- Certain cancer types exhibited significantly higher treatment costs.  
+- Colon and Prostate cancers appeared among the most prevalent globally.    
+- Certain cancer types exhibited significantly higher treatment costs.
+- Australia and UK appeared to be among the most affected regions. 
 - Male gender appeared to be the one most affected globally.
 
 ---
