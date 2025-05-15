@@ -35,8 +35,7 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 
 ### 📌 Sample Insight
 
-- Colon and prostate cancers appeared among the most prevalent globally.  
-- Higher cancer stages were associated with shorter survival durations.  
+- Colon and prostate cancers appeared among the most prevalent globally.    
 - Certain cancer types exhibited significantly higher treatment costs.  
 - Male gender appeared to be the one most affected globally.
 
@@ -45,8 +44,7 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 ## 🚀 Future Work
 
 - Build predictive models (e.g., logistic regression, random forest) to predict survival outcomes.
-- Perform multivariate analysis on factors affecting treatment costs.
-- Perform time series forecasting of cancer trends post-2024.
+- Perform analysis on several factors affecting treatment costs.
 
 ---
 
