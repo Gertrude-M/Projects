@@ -3,7 +3,7 @@
 
 This project explores and visualizes trends in cancer cases globally using the `global_cancer_patients_2015_2024.csv` dataset sourced from Kaggle. The analysis focuses on patient demographics, cancer types, disease stages, treatment costs, and regional distribution over a 10-year period.
 
-### 🧰 Tools & Libraries Used
+### 💼 Tools & Libraries Used
 
 - **Language**: R  
 - **Libraries**:  
