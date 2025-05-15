@@ -35,7 +35,7 @@ Explore selected plots in the [**visuals/**](visuals) folder.
 
 ### 📌 Sample Insight
 
-- Lung and breast cancers appeared among the most prevalent globally.  
+- Colon and prostate cancers appeared among the most prevalent globally.  
 - Higher cancer stages were associated with shorter survival durations.  
 - Certain cancer types exhibited significantly higher treatment costs.  
 - Male gender appeared to be the one most affected globally.
